@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AssetType</key>
+	<string>com.apple.MobileAsset.MobileSoftwareUpdate.MacUpdateBrain</string>
+	<key>Assets</key>
+	<array>
+		<dict>
+			<key>Build</key>
+			<string>25C56</string>
+			<key>OSVersion</key>
+			<string>26.2</string>
+			<key>TrainName</key>
+			<string>CheerC</string>
+			<key>_CompatibilityVersion</key>
+			<integer>20</integer>
+			<key>_CompressionAlgorithm</key>
+			<string>zip</string>
+			<key>_ContentVersion</key>
+			<integer>2422060014000002</integer>
+			<key>_DownloadSize</key>
+			<integer>4290049</integer>
+			<key>_IsZipStreamable</key>
+			<true/>
+			<key>_MasteredVersion</key>
+			<string>56</string>
+			<key>_Measurement</key>
+			<data>
+			bPbUE8lV19GpAJkpsXpKvR0jFu4=
+			</data>
+			<key>_Measurement-SHA256</key>
+			<data>
+			Ifql6rQTlgdXkZ5bh4yss1rlvbVc802kyk6wyyLO+h8=
+			</data>
+			<key>_MeasurementAlgorithm</key>
+			<string>SHA-1</string>
+			<key>_UnarchivedSize</key>
+			<integer>12372992</integer>
+			<key>__BaseURL</key>
+			<string>https://woolyjumper.sd.apple.com/assets/CheerC/CheerC25C56</string>
+			<key>__CanUseLocalCacheServer</key>
+			<true/>
+			<key>__RelativePath</key>
+			<string>com_apple_MobileAsset_MobileSoftwareUpdate_MacUpdateBrain/6cf6d413c955d7d1a9009929b17a4abd1d2316ee.zip</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pkg-info identifier="com.apple.pkg.InstallAssistant.macOSTahoe" postinstall-action="none" version="25.2.56" format-version="2" auth="root" generator-version="IASUProductGenerator-27" relocatable="true" useHFSPlusCompression="true" overwrite-permissions="true">
+    <payload numberOfFiles="950" installKBytes="51742"/>
+    <bundle path="./Applications/Install macOS Tahoe.app" CFBundleShortVersionString="21.2.02" CFBundleVersion="21202" SourceVersion="1882060002000000" id="com.apple.InstallAssistant.macOSTahoe"/>
+    <bundle-version/>
+    <upgrade-bundle>
+        <bundle id="com.apple.InstallAssistant.macOSTahoe"/>
+    </upgrade-bundle>
+    <update-bundle/>
+    <atomic-update-bundle/>
+    <strict-identifier/>
+    <relocate/>
+    <scripts>
+        <postinstall file="./postinstall.sh" component-id="com.apple.InstallAssistant.macOSTahoe"/>
+    </scripts>
+</pkg-info>

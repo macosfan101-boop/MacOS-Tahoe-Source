@@ -1,0 +1,77 @@
+{
+  "RestoreVersion" : "25.3.56.0.0,0",
+  "EAPFSEnabled" : true,
+  "_Measurement-SHA256" : "PCumxjNTCpjTeaM\/Hb5hGwErCLktfDQGNiha4OHhPy4=",
+  "ContainsSFRContent" : true,
+  "SUInstallTonightEnabled" : true,
+  "RestoreVersionInfo" : {
+    "RestoreBuildGroup" : "0",
+    "RestoreLongVersion" : "25.3.56.0.0,0",
+    "RestoreVersion" : "25.3.56.0.0"
+  },
+  "InstallationSize-Snapshot" : "5392961075",
+  "_UnarchivedSize" : 18003823616,
+  "__AssetDefaultGarbageCollectionBehavior" : "NeverCollected",
+  "OSVersion" : "26.2",
+  "SupportedDeviceModels" : [
+    "X589AMLUAP"
+  ],
+  "_Measurement" : "e\/AIwU+WLIbCbasYUwxUHdrTLeU=",
+  "InstallationSize" : "14477823539",
+  "_MeasurementAlgorithm" : "SHA-1",
+  "SUMultiPassEnabled" : true,
+  "__BaseURL" : "https:\/\/woolyjumper.sd.apple.com\/assets\/CheerC\/CheerC25C56",
+  "AssetType" : "com.apple.MobileAsset.MacSoftwareUpdate",
+  "_DownloadSize" : 17357084626,
+  "SUConvReqd" : true,
+  "__CanUseLocalCacheServer" : true,
+  "BridgeVersionInfo" : {
+    "BridgeProductBuildVersion" : "23P2048",
+    "IsSeed" : "NO",
+    "BridgeVersion" : "23.16.12048.0.0",
+    "BridgeBuildGroup" : "0",
+    "SEPEpoch" : {
+      "Major" : 1,
+      "Minor" : 0
+    }
+  },
+  "__RelativePath" : "com_apple_MobileAsset_MacSoftwareUpdate\/7bf008c14f962c86c26dab18530c541ddad32de5.zip",
+  "DataTemplateSize" : 1039524416,
+  "Build" : "25C56",
+  "SUProductSystemName" : "macOS",
+  "TargetUpdateBridgeVersion" : "23.16.12048.0.0,0",
+  "_MasteredVersion" : "56",
+  "SUDocumentationID" : "PreRelease",
+  "_CompressionAlgorithm" : "zip",
+  "CryptexSizeInfo" : [
+    {
+      "CryptexTag" : "cryptex-app",
+      "CryptexSize" : 50
+    },
+    {
+      "CryptexTag" : "cryptex-system-x86_64",
+      "CryptexSize" : 2274
+    },
+    {
+      "CryptexTag" : "cryptex-system-arm64e",
+      "CryptexSize" : 6340
+    }
+  ],
+  "SUPublisher" : "Apple Inc.",
+  "SystemVolumeSealingOverhead" : 230,
+  "_IsZipStreamable" : true,
+  "SystemPartitionPadding" : {
+    "512" : 1280,
+    "16" : 160,
+    "768" : 1280,
+    "1024" : 1280,
+    "128" : 1280,
+    "32" : 320,
+    "8" : 80,
+    "64" : 640,
+    "256" : 1280
+  },
+  "ActualMinimumSystemPartition" : 11690,
+  "TrainName" : "CheerC",
+  "MinimumSystemPartition" : 11742
+}
