@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mac-7BA5B2DFE22DDD8C</key>
+	<dict>
+		<key>DP2HDMI_0</key>
+		<dict>
+			<key>Location</key>
+			<integer>2</integer>
+			<key>OUI</key>
+			<integer>4346</integer>
+			<key>DeviceID</key>
+			<string>pHDMIf</string>
+			<key>Revision</key>
+			<integer>20</integer>
+			<key>Version</key>
+			<integer>537</integer>
+			<key>Firmware</key>
+			<string>MCDP29xxApp_V2.025.bin</string>
+			<key>ISPDriver</key>
+			<string>MCDP29xxIsp_V1.10.bin</string>
+		</dict>
+	</dict>
+	<key>Mac-27AD2F918AE68F61</key>
+	<dict>
+		<key>DP2HDMI_0</key>
+		<dict>
+			<key>Location</key>
+			<integer>255</integer>
+			<key>OUI</key>
+			<integer>4346</integer>
+			<key>DeviceID</key>
+			<string>pHDMIf</string>
+			<key>Revision</key>
+			<integer>20</integer>
+			<key>Version</key>
+			<integer>537</integer>
+			<key>Firmware</key>
+			<string>MCDP29xxApp_V2.025.bin</string>
+			<key>ISPDriver</key>
+			<string>MCDP29xxIsp_V1.10.bin</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Board IDs</key>
+	<dict>
+		<key>Mac-7BA5B2D9E42DDD94</key>
+		<dict>
+			<key>000000000003</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+			<key>000000000004</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+			<key>000000000005</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+			<key>000000000006</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+			<key>000000000007</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+			<key>000000001605</key>
+			<dict>
+				<key>ConfigFile</key>
+				<string>config.ini</string>
+				<key>FirmwareFile</key>
+				<string>7A09.ROM</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
